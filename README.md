@@ -10,3 +10,10 @@ git push
 git remote add origin LINK
 git remote -v
 git push -u origin master
+
+git branch
+git checkout
+git checkout -b feature-readme-instruction
+
+## Local Development
+1. Open index.html in your 
