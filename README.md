@@ -14,6 +14,9 @@ git push -u origin master
 git branch
 git checkout
 git checkout -b feature-readme-instruction
+git merge
+git diff
+
 
 ## Local Development
 1. Open index.html in your 
